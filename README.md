@@ -6,7 +6,7 @@ Import from https://gist.github.com/aurae/8427b93b27483763d9cb
 
 ```java
 repositories {
-    mavne { url "https://jitpack.io" }
+    maven { url "https://jitpack.io" }
 }
 
 dependencies {
