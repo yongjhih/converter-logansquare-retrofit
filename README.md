@@ -1,6 +1,18 @@
 # Converter LoganSquare for reotrfit
 
+Import from https://gist.github.com/aurae/8427b93b27483763d9cb
+
 ## Installation
+
+```java
+repositories {
+    mavne { url "https://jitpack.io" }
+}
+
+dependencies {
+    compile 'com.github.yongjhih:converter-logansquare-retrofit:-SNAPSHOT'
+}
+```
 
 ## License
 
