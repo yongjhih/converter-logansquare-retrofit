@@ -1,4 +1,4 @@
-# Converter LoganSquare for reotrfit
+# Converter LoganSquare for retrofit
 
 Import from https://gist.github.com/aurae/8427b93b27483763d9cb
 
