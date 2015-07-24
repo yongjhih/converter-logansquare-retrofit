@@ -8,7 +8,7 @@ via jcenter:
 
 ```java
 repositories {
-    jcenter
+    jcenter()
 }
 
 dependencies {
