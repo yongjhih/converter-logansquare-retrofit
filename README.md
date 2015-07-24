@@ -4,6 +4,20 @@ Import from https://gist.github.com/aurae/8427b93b27483763d9cb
 
 ## Installation
 
+via jcenter:
+
+```java
+repositories {
+    jcenter
+}
+
+dependencies {
+    compile 'com.infstory:converter-logansquare-retrofit:1.0.0'
+}
+```
+
+or jitpack:
+
 ```java
 repositories {
     maven { url "https://jitpack.io" }
